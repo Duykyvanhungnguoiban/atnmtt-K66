@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ATBMTTK66\StringToBit\bin\Debug\StringToBit.exe.config
+C:\Users\Admin\source\repos\ATBMTTK66\StringToBit\bin\Debug\StringToBit.exe
+C:\Users\Admin\source\repos\ATBMTTK66\StringToBit\bin\Debug\StringToBit.pdb
+C:\Users\Admin\source\repos\ATBMTTK66\StringToBit\obj\Debug\StringToBit.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTTK66\StringToBit\obj\Debug\StringToBit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTTK66\StringToBit\obj\Debug\StringToBit.exe
+C:\Users\Admin\source\repos\ATBMTTK66\StringToBit\obj\Debug\StringToBit.pdb

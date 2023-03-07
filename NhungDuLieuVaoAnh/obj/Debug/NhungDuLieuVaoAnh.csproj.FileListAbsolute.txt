@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\bin\Debug\NhungDuLieuVaoAnh.exe.config
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\bin\Debug\NhungDuLieuVaoAnh.exe
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\bin\Debug\NhungDuLieuVaoAnh.pdb
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.Form1.resources
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.Properties.Resources.resources
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.exe
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.pdb
+C:\Users\Admin\source\repos\ATBMTTK66\NhungDuLieuVaoAnh\obj\Debug\NhungDuLieuVaoAnh.KTAnh.resources
